@@ -19,7 +19,7 @@ function About() {
           innovations, by making our products more sustainably, by building a
           creative and diverse global team and by making a positive impact in
           communities where we live and work. Based in Beaverton, Oregon, NIKE,
-          Inc. includes the Nike, Cojsrbvosrubosnverse, and Jordan brands.
+          Inc. includes the Nike, Adidas and Jordan brands.
         </p>
       </div>
     </div>
